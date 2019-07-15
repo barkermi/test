@@ -2,7 +2,7 @@
 title: "test RMD on GitHub"
 author: "Matt Barker"
 date: "7/15/2019"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}

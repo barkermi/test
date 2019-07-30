@@ -11,3 +11,7 @@ adding a line
 here's a line from rstudio on mac
 
 a slightly different merge conflict
+
+making edits in a new branch...
+
+This is another edit

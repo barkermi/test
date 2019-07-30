@@ -9,3 +9,5 @@ Testing for cred challenge
 adding a line
 
 here's a line from rstudio on mac
+
+testing a merge conflict
